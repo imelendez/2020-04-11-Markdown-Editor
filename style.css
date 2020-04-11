@@ -1,0 +1,8 @@
+.header{
+    size: 20px;
+}
+
+.editor{
+    display: flex;
+    flex-direction: row;
+}
